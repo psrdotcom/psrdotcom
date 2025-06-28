@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psrdotcom
 - 👀 I’m interested in developing simple and useful applications
-- 🌱 I’m currently learning Python and C# .NET
-- 💞️ I’m looking to collaborate on Blockchain based decentralized identities
+- 🌱 I’m currently learning GenAI and AgenticAI
+- 💞️ I’m looking to collaborate on securing identities
 - 📫 How to reach me psrdotcom@gmail.com
 
 <!---
